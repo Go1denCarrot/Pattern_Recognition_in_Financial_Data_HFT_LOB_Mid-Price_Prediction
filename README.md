@@ -1,0 +1,1 @@
+# Pattern_Recognition_in_Financial_Data_UoE
