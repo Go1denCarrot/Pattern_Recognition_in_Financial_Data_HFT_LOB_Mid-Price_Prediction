@@ -1,4 +1,4 @@
-# Pattern_Recognition_in_Financial_Data_UoE
+# Pattern_Recognition_in_Financial_Data
 
 You are a member of a High-Frequency Trading (HFT) Hedge Fund which focuses on the
 implementation of Machine Learning and Deep Learning methods for HFT Limit Order Book (LOB)
